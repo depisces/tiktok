@@ -1,0 +1,13 @@
+go 1.20
+
+use (
+	./api-gateway
+	./comment
+	./favorite
+	./tokenutils
+	./user
+	./feed
+	./message
+	./relation
+	./publish
+)
